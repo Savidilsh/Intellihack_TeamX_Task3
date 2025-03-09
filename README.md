@@ -1,5 +1,5 @@
-# Intellihack_TeamAlpha_Task1
-Submission for IntelliHack 5.0 LLM Task 1 by Team Alpha.
+# Intellihack_TeamAlpha_Task3
+Submission for IntelliHack 5.0 LLM Task 1 by TeamX.
 
 ## Contents
 - `IntelliHack_LLM_Submission.ipynb`: Notebook with training, evaluation, inference, and report.
