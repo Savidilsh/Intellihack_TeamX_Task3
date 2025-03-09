@@ -1,4 +1,4 @@
-# Intellihack_TeamAlpha_Task3
+# Intellihack_TeamX_Task3
 Submission for IntelliHack 5.0 LLM Task 1 by TeamX.
 
 ## Contents
