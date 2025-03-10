@@ -11,7 +11,7 @@ Submission for IntelliHack 5.0 LLM Task 1 by TeamX.
 2. Mount Drive: `from google.colab import drive; drive.mount('/content/drive')`.
 3. Install dependencies: `!pip install torch==2.6.0+cu124 -f https://download.pytorch.org/whl/torch_stable.html; !pip install unsloth==2025.3.9 transformers==4.48.3 datasets==2.19.0`.
 4. Run cells to load model and test inference.
-5. Model files are in Drive (links above) or upload locally if provided.
+5. Model files are in Drive (links above) or upload locally by downloading them.
 
 ## Notes
 - Trained on 5 DeepSeek `.md` files, 43 train/11 test examples.
